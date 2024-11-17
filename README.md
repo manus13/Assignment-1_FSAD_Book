@@ -21,7 +21,7 @@ Git
 
 Setup Instructions
 1. Clone the Repository
-git clone https://github.com/yourusername/book-exchange-platform.git
+git clone https://github.com/yourusername/Assignment-1_FSAD_Book.git
 cd book-exchange-platform
 
 2. Set Up the Backend
